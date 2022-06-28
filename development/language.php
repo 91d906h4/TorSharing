@@ -40,7 +40,7 @@
             "website_title_contactus" => "聯繫我們",
             "website_title_register" => "註冊",
 
-            "website_subtitle" => "一個在 Tor 上的論壇，一個為全世界的社群。",
+            "website_subtitle" => "一個在 Tor 上的論壇，一個全世界的社群。",
             "connect_without_tor_alert_message" => "警告 : 您目前的連線並非經由 Tor 網路。"
             )
     );
