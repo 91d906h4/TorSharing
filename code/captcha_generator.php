@@ -9,9 +9,9 @@
     $width = 200;
     $height = 100;
     $text = $random;
-    $fontfile = dirname(__DIR__)."/resource/arial.ttf";
+    $fontfile = dirname(__DIR__)."ttf_file_path";
 
-    $image = imagecreatefromgif(dirname(__DIR__)."/resource/glitch.gif");
+    $image = imagecreatefromgif(dirname(__DIR__)."_gif_file_paath");
     $text_color = imagecolorallocate($image, 255, 255, 255);
 
     // Generate image
