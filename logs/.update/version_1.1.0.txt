@@ -1,0 +1,9 @@
+Update Version : 1.1.0
+
+[Updated]
+    -Add chennal function.
+    -Add 2FA function.
+    -Home page update.
+
+[Next Update]
+    -User rank function.

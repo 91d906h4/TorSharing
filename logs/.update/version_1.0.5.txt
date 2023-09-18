@@ -1,0 +1,7 @@
+Update Version : 1.0.5
+
+[Updated]
+    -Add article posting, comment posting, profile viewing function.
+
+[Next Update]
+    -Add chennal function.
